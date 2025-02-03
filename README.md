@@ -1,4 +1,4 @@
-# Blockchain-fundamentals
+# Blockchain-funda
 
  Basic Blockchain Implementation:
 This project is a simple blockchain implementation in Python. It demonstrates how a basic blockchain works, including block creation, proof of work, and transaction handling. The project also includes a mining reward feature for miners who successfully add new blocks to the blockchain.
